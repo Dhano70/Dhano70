@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**Dhano70/Dhano70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student in the Netherlands and a graduate of Industrial Design Engineering.
 
-Here are some ideas to get you started:
+I enjoy solving problems step by step and building clear, efficient software, especially where **software and hardware meet**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+- **Languages:** C, C++, Python, JavaScript, Scala, SQL, x86 Assembly 
+- **Design & Engineering Tools:** SolidWorks, Fusion 360, Rapid prototyping, 3D printing
+
+I'm interessted in Embedded systems, so that i can combine my knowledge and skills in computing and product developement.
+
+### Projects
+
+
+(See pinned repositories below 👇)
