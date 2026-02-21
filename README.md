@@ -11,6 +11,6 @@ I enjoy solving problems step by step and building clear, efficient software, es
 I'm interessted in Embedded systems, so that i can combine my knowledge and skills in computing and product developement.
 
 ### Public projects
--  escaper-product-dynamics
+-  Escaper
 
 (See pinned repositories below 👇)
