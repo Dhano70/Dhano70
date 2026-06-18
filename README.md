@@ -2,7 +2,7 @@
 
 I’m a Computer Science student in the Netherlands and a graduate of Industrial Design Engineering.
 
-I building clear, efficient software, especially where **software and hardware meet**.
+I like building clear, efficient software, especially where **software and hardware meet**.
 
 ### Tech
 - **Languages:** C, C++, Python, JavaScript, Scala, SQL, x86 Assembly 
