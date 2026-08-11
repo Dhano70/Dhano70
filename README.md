@@ -9,7 +9,7 @@ I like building clear, efficient software, especially where **software and hardw
 - **Frameworks:** FastAPI
 - **Design & Engineering Tools:** SolidWorks, Fusion 360
 
-I'm interessted in Embedded systems, so that i can combine my knowledge and skills in computing and product developement for better innovation.
+I'm interessted in Embedded systems, so that i can combine my knowledge and skills in computing and product developement for better innovation. I also find computer security very significant and thus it is also in my scope. 
 
 ### Public projects
 -  Escaper
