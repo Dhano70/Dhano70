@@ -7,7 +7,7 @@ I like building clear, efficient software, especially where **software and hardw
 ### Tech
 - **Languages:** C, C++, Python, JavaScript, Scala, SQL, x86 Assembly
 - **Frameworks:** FastAPI
-- **Design & Engineering Tools:** SolidWorks, Fusion 360, Rapid prototyping, 3D printing
+- **Design & Engineering Tools:** SolidWorks, Fusion 360
 
 I'm interessted in Embedded systems, so that i can combine my knowledge and skills in computing and product developement for better innovation.
 
